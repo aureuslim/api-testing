@@ -1,0 +1,10 @@
+{
+  "status": "Awesome! You have reached the Fake JSON APIs provided by Beeceptor. Go to https://beeceptor.com/mock-server/json-placeholder and find the request paths you want to use. If you are using trailing slashes and this came up, please remove those to see the actual response.",
+  "paths" : [
+    "https://fake-json-api.mock.beeceptor.com/users",
+    "https://fake-json-api.mock.beeceptor.com/users/1",
+    "https://fake-json-api.mock.beeceptor.com/companies",
+    "https://fake-json-api.mock.beeceptor.com/companies/1",
+    "https://fake-json-api.mock.beeceptor.com/customers"    
+  ]
+}
